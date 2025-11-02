@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FARHANSNC
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Tech and persuing BCA.
+- 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on something related to games
-- 📫 Reach me at - @12azmifarhan786@gmail.com
+- 📫 Reach me at - @farhansnc1@gmail.com
 - 😄 Pronouns: He/Him/His
 
 <!---
