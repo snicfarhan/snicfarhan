@@ -3,7 +3,7 @@
 ![QuestHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20there,%20I'm%20Farhan&fontSize=50&fontAlignY=35&animation=twinkling)
 
 ### 🚀 Full-Stack Developer · MERN · Real-Time Systems  
-📍 Azamgarh, Uttar Pradesh, India 🇮🇳
+📍 Azamgarh, Uttar Pradesh 🇮🇳
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+Production+Web+Apps;MERN+Stack+Architect;Real-Time+Systems+Engineer;Always+Shipping+%F0%9F%9A%80" />
 
@@ -36,9 +36,12 @@
         </ul>
       </p>
     </td>
-    <td width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=snicfarhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" width="100%" />
-    </td>
+   <td width="35%" align="center">
+  <img src="https://github.com/snicfarhan.png" 
+       alt="Farhan Ahmad" 
+       width="180" 
+       style="border-radius: 50%; border: 3px solid #FF69B4;" />
+</td>
   </tr>
 </table>
 
