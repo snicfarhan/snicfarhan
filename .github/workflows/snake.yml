@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:       # Allows you to manually trigger it
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Gives the action permission to push to your repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: snicfarhan          # Your GitHub username
+          outputs: |
+            dist/snake.svg
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          commit_message: "Update snake.svg [skip ci]"
