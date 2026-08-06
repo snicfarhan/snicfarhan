@@ -126,7 +126,6 @@ This was my BCA capstone project — but I treated it like a real startup produc
   <img src="https://raw.githubusercontent.com/snicfarhan/snicfarhan/output/snake.svg" alt="Snake animation" />
 </p>
 
-> ⚡ *To enable this, add the snake GitHub Action to your profile repo.*
 
 ---
 
