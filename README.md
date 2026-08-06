@@ -20,7 +20,7 @@ Built end-to-end solo — backend architecture, real-time infrastructure, fronte
 - ☁️ Deployed: React on Netlify, Node.js on Render, MongoDB Atlas
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-queshub.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://queshub.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Questhub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FARHANSNC/Questhub)
+[![GitHub](https://img.shields.io/badge/GitHub-Questhub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snicfarhan/Questhub)
 
 ---
 
