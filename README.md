@@ -19,22 +19,32 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <p>
-    <img src="https://avatars.githubusercontent.com/snicfarhan?s=150" align="right" style="border-radius: 50%; border: 3px solid #FF69B4; margin-left: 20px;" />
-    I build <strong>real-world web applications</strong> and treat every project like a production deployment — from day one. 
-    Currently a BCA student at Maharaja Suhel Dev University, but coding like a professional developer.
-  </p>
-  
-  <br clear="right" />
-  
-  <strong>What I care about:</strong>
-  
-  - 🚀 Shipping software that solves actual problems  
-  - 🔐 Data integrity and real-time systems  
-  - 🧹 Writing clean, maintainable, and secure code  
-  - 📚 Learning something new every single week
-</div>
+<table align="center">
+  <tr>
+    <td width="65%">
+      <p>
+        I build <strong>real-world web applications</strong> and treat every project like a production deployment — from day one. 
+        Currently a BCA student at Maharaja Suhel Dev University, but coding like a professional developer.
+      </p>
+      <p>
+        <strong>What I care about:</strong>
+        <ul>
+          <li>🚀 Shipping software that solves actual problems</li>
+          <li>🔐 Data integrity and real-time systems</li>
+          <li>🧹 Writing clean, maintainable, and secure code</li>
+          <li>📚 Learning something new every single week</li>
+        </ul>
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://github.com/snicfarhan.png" 
+           alt="Farhan Ahmad" 
+           width="180" 
+           style="border-radius: 50%; border: 3px solid #FF69B4;" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
