@@ -19,31 +19,33 @@
 
 ## 👨‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td width="65%">
-      <p>
-        I build <strong>real-world web applications</strong> and treat every project like a production deployment — from day one. 
-        Currently a BCA student at Maharaja Suhel Dev University, but coding like a professional developer.
-      </p>
-      <p>
-        <strong>What I care about:</strong>
+<div align="center">
+  <table style="width: 100%; border: none; border-collapse: collapse;">
+    <tr>
+      <td style="width: 65%; vertical-align: top; border: none; padding: 10px;">
+        <p>
+          I build <strong>real-world web applications</strong> and treat every project like a production deployment — from day one. 
+          Currently a BCA student at Maharaja Suhel Dev University, but coding like a professional developer.
+        </p>
+        <p>
+          <strong>What I care about:</strong>
+        </p>
         <ul>
           <li>🚀 Shipping software that solves actual problems</li>
           <li>🔐 Data integrity and real-time systems</li>
           <li>🧹 Writing clean, maintainable, and secure code</li>
           <li>📚 Learning something new every single week</li>
         </ul>
-      </p>
-    </td>
-   <td width="35%" align="center">
-  <img src="https://github.com/snicfarhan.png" 
-       alt="Farhan Ahmad" 
-       width="180" 
-       style="border-radius: 50%; border: 3px solid #FF69B4;" />
-</td>
-  </tr>
-</table>
+      </td>
+      <td style="width: 35%; text-align: center; vertical-align: middle; border: none; padding: 10px;">
+        <img src="https://avatars.githubusercontent.com/snicfarhan?s=200" 
+             alt="Farhan Ahmad" 
+             width="160" 
+             style="border-radius: 50%; border: 3px solid #FF69B4; max-width: 100%; height: auto;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
