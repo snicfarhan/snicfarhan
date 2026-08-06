@@ -1,82 +1,170 @@
-# Hey, I'm Farhan Ahmad 👋
+<div align="center">
 
-**Full-Stack Web Developer** • BCA Student @ Maharaja Suhel Dev University, Azamgarh  
-Based in Azamgarh, Uttar Pradesh 🇮🇳
+![QuestHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20there,%20I'm%20Farhan&fontSize=50&fontAlignY=35&animation=twinkling)
 
-I build and ship real-world web applications, not just localhost projects. Currently focused on the MERN stack, real-time systems, and learning something new every week.
+### 🚀 Full-Stack Developer · MERN · Real-Time Systems  
+📍 Azamgarh, Uttar Pradesh, India 🇮🇳
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+Production+Web+Apps;MERN+Stack+Architect;Real-Time+Systems+Engineer;Always+Shipping+%F0%9F%9A%80" />
+
+<br/>
+
+[![GitHub Followers](https://img.shields.io/github/followers/snicfarhan?style=for-the-badge&label=Followers&color=FF69B4&logo=github)](https://github.com/snicfarhan)
+[![GitHub Stars](https://img.shields.io/github/stars/snicfarhan?style=for-the-badge&label=Total%20Stars&color=FF69B4&logo=github)](https://github.com/snicfarhan)
+[![Profile Views](https://komarev.com/ghpvc/?username=snicfarhan&color=FF69B4&style=for-the-badge&label=Views)](https://github.com/snicfarhan)
+
+</div>
 
 ---
 
-## 🚀 What I've Shipped
+## 👨‍💻 About Me
 
-### [QuestHub - Smart Quiz Platform](https://queshub.netlify.app)
-> Full-stack MERN app with real-time multiplayer buzzer system
-
-Built end-to-end solo — backend architecture, real-time infrastructure, frontend, and production deployment.
-
-- ⚡ Real-time buzzer with **server-side race condition handling** via MongoDB atomic operations
-- 🔐 JWT auth shared across REST API + Socket.IO WebSocket handshakes
-- 📊 Analytics dashboard powered by MongoDB aggregation pipelines
-- ☁️ Deployed: React on Netlify, Node.js on Render, MongoDB Atlas
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-queshub.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://queshub.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Questhub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snicfarhan/Questhub)
+<table align="center">
+  <tr>
+    <td width="65%">
+      <p>
+        I build <strong>real-world web applications</strong> and treat every project like a production deployment — from day one. 
+        Currently a BCA student at Maharaja Suhel Dev University, but coding like a professional developer.
+      </p>
+      <p>
+        <strong>What I care about:</strong>
+        <ul>
+          <li>🚀 Shipping software that solves actual problems</li>
+          <li>🔐 Data integrity and real-time systems</li>
+          <li>🧹 Writing clean, maintainable, and secure code</li>
+          <li>📚 Learning something new every single week</li>
+        </ul>
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=snicfarhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Database & Auth**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Deployment & Tools**  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="60" height="60" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" height="60" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Project: QuestHub
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=snicfarhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snicfarhan&layout=compact&theme=tokyonight&hide_border=true" />
+> A production-grade real-time quiz platform with a multiplayer buzzer system
+
+**Live Demo:** [queshub.netlify.app](https://queshub.netlify.app)
+
+This was my BCA capstone project — but I treated it like a real startup product. It handles three quiz modes, live scoring, and millisecond-level buzzer arbitration.
+
+**What makes it special:**
+- ⚡ Server-side buzzer arbitration using **MongoDB atomic operations** — zero race conditions
+- 🔐 **Stateless JWT auth** shared seamlessly between REST API and WebSocket handshakes
+- 📊 **Analytics dashboard** built with MongoDB aggregation pipelines
+- ☁️ Full production deployment with **CORS, cold starts, and SPA routing** handled properly
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://queshub.netlify.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snicfarhan/Questhub)
+
+---
+
+## 🏗️ Currently Building
+
+| Project | Status | Tech Stack |
+|---------|--------|------------|
+| **Bank Transaction System** | 🚧 In Progress | Node.js, Express, MongoDB (ACID), JWT |
+| **Personal VCS (like Git)** | 📝 Planning | Node.js, File System, SHA Hashing |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=snicfarhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snicfarhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snicfarhan&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snicfarhan&theme=react-dark&bg_color=0D1117&color=FF69B4&line=FF69B4&point=F8BBD0&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snicfarhan/snicfarhan/output/snake.svg" alt="Snake animation" />
+</p>
+
+> ⚡ *To enable this, add the snake GitHub Action to your profile repo.*
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-snicfarhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snicfarhan)
-[![Gmail](https://img.shields.io/badge/Gmail-farhansnc1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhansnc1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-snicfarhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snicfarhan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/snicfarhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/snicfarhan" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/snicfarhan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@snicfarhan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:farhansnc1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔮 What's Next
-
-- More full-stack projects in the pipeline
-- Exploring TypeScript and Next.js
-- Open to entry-level developer roles and collaborations
-
----
+## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snicfarhan&color=2E74B5&style=flat-square&label=Profile+Views" />
+  <code>TypeScript</code> · <code>Next.js</code> · <code>System Design</code> · <code>Docker</code> · <code>Advanced MongoDB</code>
 </p>
+
+---
+
+<div align="center">
+
+![Pink Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
+**⭐ Thanks for visiting my profile!**  
+*"Building software that matters."*
+
+</div>
