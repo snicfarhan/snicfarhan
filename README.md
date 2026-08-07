@@ -73,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
   </a>
   <a href="https://socket.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF/000000" alt="Socket.io" width="60" height="60" style="border-radius: 12px; padding: 10px; background-color: #000000;" />
+    <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF?v=2" alt="Socket.io" width="60" height="60" style="border-radius: 12px; padding: 10px; background-color: #010101;" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
