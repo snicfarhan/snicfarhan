@@ -107,8 +107,8 @@ This was my BCA capstone project — but I treated it like a real startup produc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=snicfarhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snicfarhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snicfarhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snicfarhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
 </p>
 
 <p align="center">
