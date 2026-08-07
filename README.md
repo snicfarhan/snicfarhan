@@ -29,8 +29,8 @@
         between a server and a hundred clients at once.
       </p>
       <p>
-        Currently a BCA student at Maharaja Suhel Dev University, learning the fundamentals in 
-        class and stress-testing them in my own projects.
+        BCA graduate from Maharaja Suhel Dev University, learning the fundamentals on 
+    my own and stress-testing them in my own projects.
       </p>
       <p>
         <strong>What I care about:</strong>
@@ -73,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
   </a>
   <a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" height="28" />
+    <img src="https://cdn.simpleicons.org/socketdotio/010101/1E1E2E" alt="Socket.io" width="60" height="60" style="border-radius: 12px; padding: 10px; background-color: #1E1E2E;" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
@@ -101,15 +101,6 @@ This was my BCA capstone project — but I treated it like a real startup produc
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://queshub.netlify.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snicfarhan/Questhub)
-
----
-
-## 🏗️ Currently Building
-
-| Project | Status | Tech Stack |
-|---------|--------|------------|
-| **Bank Transaction System** | 🚧 In Progress | Node.js, Express, MongoDB (ACID), JWT |
-| **Personal VCS (like Git)** | 📝 Planning | Node.js, File System, SHA Hashing |
 
 ---
 
@@ -143,9 +134,6 @@ This was my BCA capstone project — but I treated it like a real startup produc
 <p align="center">
   <a href="https://www.linkedin.com/in/snicfarhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/snicfarhan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/snicfarhan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
