@@ -23,15 +23,21 @@
   <tr>
     <td width="65%">
       <p>
-        I build <strong>real-world web applications</strong> and treat every project like a production deployment — from day one. 
-        Currently a BCA student at Maharaja Suhel Dev University, but coding like a professional developer.
+        I got into real-time systems by accident — building a quiz buzzer for a college project 
+        and getting obsessed with shaving milliseconds off arbitration logic. That rabbit hole 
+        turned into <strong>QuestHub</strong>, and now I can't stop thinking about how data moves 
+        between a server and a hundred clients at once.
+      </p>
+      <p>
+        Currently a BCA student at Maharaja Suhel Dev University, learning the fundamentals in 
+        class and stress-testing them in my own projects.
       </p>
       <p>
         <strong>What I care about:</strong>
         <ul>
-          <li>🚀 Shipping software that solves actual problems</li>
-          <li>🔐 Data integrity and real-time systems</li>
-          <li>🧹 Writing clean, maintainable, and secure code</li>
+          <li>⚡ Real-time systems — WebSockets, race conditions, atomic operations</li>
+          <li>🔐 Data integrity in every layer, not just the happy path</li>
+          <li>🧹 Clean, maintainable, secure code over quick hacks</li>
           <li>📚 Learning something new every single week</li>
         </ul>
       </p>
@@ -39,8 +45,9 @@
     <td width="35%" align="center">
       <img src="https://github.com/snicfarhan.png" 
            alt="Farhan Ahmad" 
-           width="180" 
-           style="border-radius: 50%; border: 3px solid #FF69B4;" />
+           width="280" 
+           height="340"
+           style="object-fit: cover; border-radius: 12px; border: 3px solid #FF69B4;" />
     </td>
   </tr>
 </table>
@@ -66,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
   </a>
   <a href="https://socket.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" height="28" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
@@ -128,7 +135,6 @@ This was my BCA capstone project — but I treated it like a real startup produc
 <p align="center">
   <img src="https://raw.githubusercontent.com/snicfarhan/snicfarhan/output/snake.svg" alt="Snake animation" />
 </p>
-
 
 ---
 
