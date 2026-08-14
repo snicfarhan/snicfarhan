@@ -103,20 +103,11 @@ The contribution graph is part of the profile experience. It refreshes automatic
   <img src="https://www.gitskins.com/api/section/highlights?username=snicfarhan&theme=aurora&items=Real-time%20systems::Building%20buzzer-fast%2C%20race-condition-free%20multiplayer%20logic|MERN%20stack::Shipping%20production-grade%20web%20apps%20end%20to%20end|Always%20learning::TypeScript%2C%20Next.js%2C%20System%20Design%2C%20Docker" width="100%" alt="Current focus areas for Farhan Ahmad" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/snicfarhan?tab=repositories">See all repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
-</p>
-
 ## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/snicfarhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/snicfarhan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/snicfarhan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -124,6 +115,12 @@ The contribution graph is part of the profile experience. It refreshes automatic
   <a href="mailto:farhansnc1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/snicfarhan?tab=repositories">See all repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
 </p>
 
 <p align="center">
