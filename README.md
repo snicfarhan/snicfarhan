@@ -33,14 +33,12 @@ I build across web applications, real-time infrastructure, and backend systems. 
 ## Selected work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=snicfarhan&theme=aurora" width="100%" alt="Selected projects by Farhan Ahmad" />
+  <img src="https://www.gitskins.com/api/section/projects?username=snicfarhan&theme=aurora&refresh=1" width="100%" alt="Selected projects by Farhan Ahmad" />
 </p>
 
 | Project | What it is |
 | --- | --- |
 | [QuestHub](https://github.com/snicfarhan/Questhub) | Real-time multiplayer quiz platform with server-side buzzer arbitration, stateless JWT auth across REST + WebSocket, and MongoDB aggregation-powered analytics. |
-| Bank Transaction System | ACID-compliant transaction engine built with Node.js, Express, and MongoDB. |
-| Personal VCS | A Git-like version control system built from scratch using Node.js, the file system, and SHA hashing. |
 
 <p align="center">
   <a href="https://github.com/snicfarhan/Questhub"><b>Explore QuestHub</b></a>
@@ -116,6 +114,8 @@ The contribution graph is part of the profile experience. It refreshes automatic
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <a href="https://github.com/snicfarhan?tab=repositories">See all repositories</a>
