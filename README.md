@@ -1,60 +1,64 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=snicfarhan&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=snicfarhan&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Farhan Ahmad" />
+  </picture>
+</p>
 
-![QuestHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20there,%20I'm%20Farhan&fontSize=50&fontAlignY=35&animation=twinkling)
+<p align="center">
+  <a href="https://queshub.netlify.app"><b>QuestHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/snicfarhan?tab=repositories">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/snicfarhan">LinkedIn</a>
+</p>
 
-### 🚀 Full-Stack Developer · MERN · Real-Time Systems  
-📍 Azamgarh, Uttar Pradesh 🇮🇳
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=snicfarhan&theme=aurora&label=Farhan%20Ahmad" width="100%" alt="Animated 3D wordmark for Farhan Ahmad" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+Production+Web+Apps;MERN+Stack+Architect;Real-Time+Systems+Engineer;Always+Shipping+%F0%9F%9A%80" />
+## Building real-time systems that don't break under pressure
 
-<br/>
+I'm a full-stack developer specializing in the **MERN stack** and real-time systems, currently building [QuestHub](https://queshub.netlify.app) — a production-grade multiplayer quiz platform with millisecond-level buzzer arbitration. My work focuses on data integrity, race-condition-free architecture, and shipping software that actually holds up in production.
 
-[![GitHub Followers](https://img.shields.io/github/followers/snicfarhan?style=for-the-badge&label=Followers&color=FF69B4&logo=github)](https://github.com/snicfarhan)
-[![GitHub Stars](https://img.shields.io/github/stars/snicfarhan?style=for-the-badge&label=Total%20Stars&color=FF69B4&logo=github)](https://github.com/snicfarhan)
-[![Profile Views](https://komarev.com/ghpvc/?username=snicfarhan&color=FF69B4&style=for-the-badge&label=Views)](https://github.com/snicfarhan)
+I build across web applications, real-time infrastructure, and backend systems. The common thread is treating every project — even a college capstone — like it has real users depending on it.
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=snicfarhan&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=snicfarhan&theme=aurora&mode=dark" width="100%" alt="About Farhan Ahmad" />
+  </picture>
+</p>
 
----
+## Selected work
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=snicfarhan&theme=aurora" width="100%" alt="Selected projects by Farhan Ahmad" />
+</p>
 
-<table align="center">
-  <tr>
-    <td width="65%">
-      <p>
-        I got into real-time systems by accident — building a quiz buzzer for a college project 
-        and getting obsessed with shaving milliseconds off arbitration logic. That rabbit hole 
-        turned into <strong>QuestHub</strong>, and now I can't stop thinking about how data moves 
-        between a server and a hundred clients at once.
-      </p>
-      <p>
-        BCA graduate from Maharaja Suhel Dev University, learning the fundamentals on 
-    my own and stress-testing them in my own projects.
-      </p>
-      <p>
-        <strong>What I care about:</strong>
-        <ul>
-          <li>⚡ Real-time systems — WebSockets, race conditions, atomic operations</li>
-          <li>🔐 Data integrity in every layer, not just the happy path</li>
-          <li>🧹 Clean, maintainable, secure code over quick hacks</li>
-          <li>📚 Learning something new every single week</li>
-        </ul>
-      </p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://github.com/snicfarhan.png" 
-           alt="Farhan Ahmad" 
-           width="280" 
-           height="340"
-           style="object-fit: cover; border-radius: 12px; border: 3px solid #FF69B4;" />
-    </td>
-  </tr>
-</table>
+| Project | What it is |
+| --- | --- |
+| [QuestHub](https://github.com/snicfarhan/Questhub) | Real-time multiplayer quiz platform with server-side buzzer arbitration, stateless JWT auth across REST + WebSocket, and MongoDB aggregation-powered analytics. |
+| Bank Transaction System | ACID-compliant transaction engine built with Node.js, Express, and MongoDB. |
+| Personal VCS | A Git-like version control system built from scratch using Node.js, the file system, and SHA hashing. |
 
----
+<p align="center">
+  <a href="https://github.com/snicfarhan/Questhub"><b>Explore QuestHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://queshub.netlify.app">Visit queshub.netlify.app</a>
+</p>
 
-## 🛠️ Tech Stack
+## Engineering signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=snicfarhan&theme=aurora" width="100%" alt="Technology stack for Farhan Ahmad" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=snicfarhan&theme=aurora" width="100%" alt="GitHub activity stats for Farhan Ahmad" />
+</p>
+
+## Tech Stack
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
@@ -83,57 +87,36 @@
   </a>
 </p>
 
----
 
-## 🚀 Featured Project: QuestHub
 
-> A production-grade real-time quiz platform with a multiplayer buzzer system
+## A profile that moves
 
-**Live Demo:** [queshub.netlify.app](https://queshub.netlify.app)
-
-This was my BCA capstone project — but I treated it like a real startup product. It handles three quiz modes, live scoring, and millisecond-level buzzer arbitration.
-
-**What makes it special:**
-- ⚡ Server-side buzzer arbitration using **MongoDB atomic operations** — zero race conditions
-- 🔐 **Stateless JWT auth** shared seamlessly between REST API and WebSocket handshakes
-- 📊 **Analytics dashboard** built with MongoDB aggregation pipelines
-- ☁️ Full production deployment with **CORS, cold starts, and SPA routing** handled properly
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://queshub.netlify.app)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snicfarhan/Questhub)
-
----
-
-## 📊 GitHub Stats
+The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snicfarhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snicfarhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
+  <img src="https://raw.githubusercontent.com/snicfarhan/snicfarhan/main/game.gif" width="100%" alt="GitHub contributions as a space shooter game" />
+</p>
+
+## Current focus
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=snicfarhan&theme=aurora&items=Real-time%20systems::Building%20buzzer-fast%2C%20race-condition-free%20multiplayer%20logic|MERN%20stack::Shipping%20production-grade%20web%20apps%20end%20to%20end|Always%20learning::TypeScript%2C%20Next.js%2C%20System%20Design%2C%20Docker" width="100%" alt="Current focus areas for Farhan Ahmad" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=snicfarhan&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+  <a href="https://github.com/snicfarhan?tab=repositories">See all repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snicfarhan&theme=react-dark&bg_color=0D1117&color=FF69B4&line=FF69B4&point=F8BBD0&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/snicfarhan/snicfarhan/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📬 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/snicfarhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/snicfarhan" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/snicfarhan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -143,21 +126,6 @@ This was my BCA capstone project — but I treated it like a real startup produc
   </a>
 </p>
 
----
-
-## 📚 Currently Learning
-
 <p align="center">
-  <code>TypeScript</code> · <code>Next.js</code> · <code>System Design</code> · <code>Docker</code> · <code>Advanced MongoDB</code>
+  <sub>Designed with GitSkins. Built in public.</sub>
 </p>
-
----
-
-<div align="center">
-
-![Pink Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
-**⭐ Thanks for visiting my profile!**  
-*"Building software that matters."*
-
-</div>
